@@ -1,0 +1,12 @@
+C:\Users\D181761\Documents\Visual Studio 2015\Projects\Encryption2\Encryption2\bin\Debug\Encryption2.exe.config
+C:\Users\D181761\Documents\Visual Studio 2015\Projects\Encryption2\Encryption2\bin\Debug\Encryption2.exe
+C:\Users\D181761\Documents\Visual Studio 2015\Projects\Encryption2\Encryption2\bin\Debug\Encryption2.pdb
+C:\Users\D181761\Documents\Visual Studio 2015\Projects\Encryption2\Encryption2\bin\Debug\CryptSharp.dll
+C:\Users\D181761\Documents\Visual Studio 2015\Projects\Encryption2\Encryption2\bin\Debug\CryptSharp.pdb
+C:\Users\D181761\Documents\Visual Studio 2015\Projects\Encryption2\Encryption2\bin\Debug\CryptSharp.xml
+C:\Users\D181761\Documents\Visual Studio 2015\Projects\Encryption2\Encryption2\obj\Debug\Encryption2.csprojResolveAssemblyReference.cache
+C:\Users\D181761\Documents\Visual Studio 2015\Projects\Encryption2\Encryption2\obj\Debug\Encryption2.Form1.resources
+C:\Users\D181761\Documents\Visual Studio 2015\Projects\Encryption2\Encryption2\obj\Debug\Encryption2.Properties.Resources.resources
+C:\Users\D181761\Documents\Visual Studio 2015\Projects\Encryption2\Encryption2\obj\Debug\Encryption2.csproj.GenerateResource.Cache
+C:\Users\D181761\Documents\Visual Studio 2015\Projects\Encryption2\Encryption2\obj\Debug\Encryption2.exe
+C:\Users\D181761\Documents\Visual Studio 2015\Projects\Encryption2\Encryption2\obj\Debug\Encryption2.pdb
